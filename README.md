@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/429836587_1865578787212438_5319939629401307257_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGa4ERulqd2RYH5-YimW6gngD2SzACRdICAPZLMAJF0gDl_KXA45PJ1BWg4M7i85B4DfTW9s1pNGK-Ebk3jgp5o&_nc_ohc=zsAX_RkbZIgAX___Ui2&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBax6v6vQl4WGo35qi7zEn_v489b8zDWqg6_7egcHKRAA&oe=65FD96CA"  />
+  <img height="500" src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ"  />
 </div>
 
 ###
