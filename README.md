@@ -1,8 +1,11 @@
 <br clear="both">
 
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ"  style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);" />
+<div align="center" style="height: 60vh; width: 100%;">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjpdcdbzm1t21xat9w6c.gif" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); max-height: 100%; width: auto; object-fit: cover;" />
 </div>
+
+
+
 
 ###
 
